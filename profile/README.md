@@ -22,9 +22,3 @@ This code will be used as a reference for the next major version of Yukon, takin
 
 - [wizguin](https://github.com/wizguin) - For creating Yukon and making this project possible.
 - **All current and future collaborators** - For helping with the project and making it great!
-
-### 📄 Notice
-
-This code has a different structure than Yukon and therefore this structure will not be used for the next version of Yukon.  
-Enhancements will be implemented accordingly, without making drastic changes.  
-This project is not intended to replace any existing project, but to contribute to improve the current ones.
